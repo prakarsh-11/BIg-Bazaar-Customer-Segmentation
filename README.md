@@ -1,6 +1,6 @@
 # Big Bazaar Customer Segmentation
 
-*Made with ❤️ by YOUR NAME · Part of the AI for Engineers Coursework*
+*Made with ❤️ by Prakarsh· Part of the AI for Engineers Coursework*
 
 A clustering project that groups **5,000 retail customers into 3 segments** using only their income, spending score and store-visit frequency, then suggests a promotion strategy for each segment.
 
