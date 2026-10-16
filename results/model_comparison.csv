@@ -1,0 +1,4 @@
+,Silhouette,Davies-Bouldin,Calinski-Harabasz
+K-Means,0.341,0.99,2868.937
+Hierarchical (Ward),0.291,0.962,2112.302
+Gaussian Mixture,0.294,1.21,2065.41
